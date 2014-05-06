@@ -1,0 +1,8 @@
+Hood-off
+--------
+
+Dummy package to disable Hood without having to remove all the calls to observe
+
+author: Pepe Iborra
+maintainer: pepeiborra@gmail.com
+homepage: http://github.com/pepeiborra/term
